@@ -2,10 +2,10 @@
   "name": "team23",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Yana2022.github.io/team23",
+  "homepage": "https://Denis-isnotavailable.github.io/icecream-team23",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team23/"
+    "build": "parcel build src/*.html --public-url /icecream-team23/"
   },
   "repository": {
     "type": "git",
